@@ -1,0 +1,8 @@
+
+.lbls {
+    display: inline-block;
+    width: 120px;
+}
+input[type="text"],input[type="number"]{
+    margin-bottom: 20px;
+}
